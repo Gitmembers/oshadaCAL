@@ -1,0 +1,7 @@
+ char operator = reader.next().charAt(0);
+        double result;
+        switch(operator)
+        {
+            case '+':
+                result = first + second;
+                break;
